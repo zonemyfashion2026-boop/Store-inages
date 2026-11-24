@@ -1,5 +1,48 @@
 [
   {
+    "name": "White lehenga",
+    "description": "",
+    "price": 800,
+    "category": "tops",
+    "modelName": "Chleh",
+    "modelNumber": "Leh01",
+    "modelDetails": "",
+    "images": [
+      "https://raw.githubusercontent.com/zonemyfashion2026-boop/Store-inages/main/products/1795540741487-49413.webp"
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "id": "90e5484a-5d29-4fee-9bcd-4a5e7639515d",
+    "code": "TP003",
+    "createdAt": "2026-11-24T17:19:03.865Z"
+  },
+  {
     "name": "Yellow light weight",
     "description": "",
     "price": 400,
