@@ -1,5 +1,48 @@
 [
   {
+    "name": "Red top",
+    "description": "",
+    "price": 250,
+    "category": "tops",
+    "modelName": "999",
+    "modelNumber": "Red top 1",
+    "modelDetails": "",
+    "images": [
+      "https://raw.githubusercontent.com/zonemyfashion2026-boop/Store-inages/main/products/1795526461136-49224.webp"
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "id": "fbf8fcbe-d3a1-48a7-b8f3-8820713270da",
+    "code": "TP002",
+    "createdAt": "2026-11-24T13:21:03.261Z"
+  },
+  {
     "name": "Brown top",
     "description": "",
     "price": 600,
