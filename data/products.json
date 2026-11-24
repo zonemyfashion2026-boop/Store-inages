@@ -83,7 +83,9 @@
     "active": true,
     "id": "fa32aeab-f7ff-4f3c-b7bd-a92f8d84d504",
     "code": "CB011",
-    "createdAt": "2026-11-24T17:51:49.051Z"
+    "createdAt": "2026-11-24T17:51:49.051Z",
+    "booked": true,
+    "bookedAt": "2026-11-24T18:07:36.581Z"
   },
   {
     "name": "Baggy top (test)",
