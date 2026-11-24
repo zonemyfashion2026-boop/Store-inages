@@ -1,5 +1,48 @@
 [
   {
+    "name": "Lehenga",
+    "description": "",
+    "price": 600,
+    "category": "combo",
+    "modelName": "",
+    "modelNumber": "",
+    "modelDetails": "",
+    "images": [
+      "https://raw.githubusercontent.com/zonemyfashion2026-boop/Store-inages/main/products/1795539306190-49402.webp"
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "id": "e0981a0c-61c1-4b6f-a773-fc5a6b14262c",
+    "code": "CB006",
+    "createdAt": "2026-11-24T16:55:09.064Z"
+  },
+  {
     "name": "Shein jeans",
     "description": "",
     "price": 900,
