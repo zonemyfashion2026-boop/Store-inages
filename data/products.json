@@ -1,5 +1,48 @@
 [
   {
+    "name": "Lehenga type (test)",
+    "description": "",
+    "price": 500,
+    "category": "combo",
+    "modelName": "Test10001",
+    "modelNumber": "Jm-104",
+    "modelDetails": "",
+    "images": [
+      "https://raw.githubusercontent.com/zonemyfashion2026-boop/Store-inages/main/products/1795542707551-49428.webp"
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "stock": 5
+      },
+      {
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "id": "fa32aeab-f7ff-4f3c-b7bd-a92f8d84d504",
+    "code": "CB011",
+    "createdAt": "2026-11-24T17:51:49.051Z"
+  },
+  {
     "name": "Baggy top (test)",
     "description": "",
     "price": 4000,
