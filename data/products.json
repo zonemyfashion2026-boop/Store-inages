@@ -1,5 +1,48 @@
 [
   {
+    "name": "Churidars top",
+    "description": "",
+    "price": 600,
+    "category": "jeans",
+    "modelName": "",
+    "modelNumber": "",
+    "modelDetails": "",
+    "images": [
+      "https://raw.githubusercontent.com/zonemyfashion2026-boop/Store-inages/main/products/1795526327584-49229.webp"
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "id": "266bbed9-d41e-4053-ad68-ba391380c344",
+    "code": "JN001",
+    "createdAt": "2026-11-24T13:18:49.610Z"
+  },
+  {
     "name": "White shirt and jeans",
     "description": "",
     "price": 300,
