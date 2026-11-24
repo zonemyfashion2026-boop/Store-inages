@@ -1,5 +1,48 @@
 [
   {
+    "name": "Shein jeans",
+    "description": "",
+    "price": 900,
+    "category": "jeans",
+    "modelName": "",
+    "modelNumber": "",
+    "modelDetails": "",
+    "images": [
+      "https://raw.githubusercontent.com/zonemyfashion2026-boop/Store-inages/main/products/1795528418568-1000042077.webp"
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "id": "06b7b9db-e085-4fb5-82d9-ed4befdd3ecf",
+    "code": "JN002",
+    "createdAt": "2026-11-24T13:53:41.073Z"
+  },
+  {
     "name": "Black kurta semi",
     "description": "",
     "price": 600,
