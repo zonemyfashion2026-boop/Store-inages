@@ -41,8 +41,8 @@
     "id": "c896cb05-2153-4d67-9844-51ce5e5ae57a",
     "code": "CB008",
     "createdAt": "2026-11-24T17:23:53.621Z",
-    "booked": true,
-    "bookedAt": "2026-11-24T17:25:26.013Z"
+    "booked": false,
+    "bookedAt": null
   },
   {
     "name": "White lehenga",
