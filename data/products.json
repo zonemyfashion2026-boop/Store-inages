@@ -1,5 +1,48 @@
 [
   {
+    "name": "White shirt and jeans",
+    "description": "",
+    "price": 300,
+    "category": "combo",
+    "modelName": "Strip A",
+    "modelNumber": "",
+    "modelDetails": "",
+    "images": [
+      "https://raw.githubusercontent.com/zonemyfashion2026-boop/Store-inages/main/products/1795526297591-49230.webp"
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 1
+      },
+      {
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "id": "5697898d-f925-43ff-b377-263929a4ab58",
+    "code": "CB002",
+    "createdAt": "2026-11-24T13:18:19.624Z"
+  },
+  {
     "name": "Strip Shirt",
     "description": "",
     "price": 300,
