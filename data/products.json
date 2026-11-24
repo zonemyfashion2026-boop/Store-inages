@@ -1,5 +1,48 @@
 [
   {
+    "name": "Kurti combo (test)",
+    "description": "",
+    "price": 500,
+    "category": "combo",
+    "modelName": "Model 4",
+    "modelNumber": "Ks-04",
+    "modelDetails": "",
+    "images": [
+      "https://raw.githubusercontent.com/zonemyfashion2026-boop/Store-inages/main/products/1795542798432-49420.webp"
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "id": "2ed5293e-cd8c-413a-b2fb-4cd4dca00958",
+    "code": "CB012",
+    "createdAt": "2026-11-24T17:53:20.153Z"
+  },
+  {
     "name": "Lehenga type (test)",
     "description": "",
     "price": 500,
