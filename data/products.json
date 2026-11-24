@@ -41,7 +41,7 @@
     "id": "ca02a8f1-a064-456a-a36b-6a0002777cc0",
     "code": "TP001",
     "createdAt": "2026-11-22T10:50:40.917Z",
-    "booked": false,
-    "bookedAt": null
+    "booked": true,
+    "bookedAt": "2026-11-24T13:05:41.026Z"
   }
 ]
