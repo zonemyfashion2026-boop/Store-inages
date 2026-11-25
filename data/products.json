@@ -350,50 +350,5 @@
     "createdAt": "2026-11-24T13:17:01.705Z",
     "booked": true,
     "bookedAt": "2026-11-25T07:41:28.845Z"
-  },
-  {
-    "name": "Crop top",
-    "description": "Crop top just 100",
-    "price": 500,
-    "category": "tops",
-    "modelName": "",
-    "modelNumber": "",
-    "modelDetails": "",
-    "images": [
-      "https://raw.githubusercontent.com/zonemyfashion2026-boop/Store-inages/main/products/1795344639250-47959.webp"
-    ],
-    "sizes": [
-      {
-        "size": "XS",
-        "stock": 0
-      },
-      {
-        "size": "S",
-        "stock": 1
-      },
-      {
-        "size": "M",
-        "stock": 0
-      },
-      {
-        "size": "L",
-        "stock": 0
-      },
-      {
-        "size": "XL",
-        "stock": 0
-      },
-      {
-        "size": "XXL",
-        "stock": 0
-      }
-    ],
-    "featured": true,
-    "active": true,
-    "id": "ca02a8f1-a064-456a-a36b-6a0002777cc0",
-    "code": "TP001",
-    "createdAt": "2026-11-22T10:50:40.917Z",
-    "booked": true,
-    "bookedAt": "2026-11-24T13:05:41.026Z"
   }
 ]
