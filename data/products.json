@@ -435,7 +435,9 @@
     "active": true,
     "id": "fbf8fcbe-d3a1-48a7-b8f3-8820713270da",
     "code": "TP002",
-    "createdAt": "2026-11-24T13:21:03.261Z"
+    "createdAt": "2026-11-24T13:21:03.261Z",
+    "booked": true,
+    "bookedAt": "2026-11-25T07:30:14.977Z"
   },
   {
     "name": "Brown top",
