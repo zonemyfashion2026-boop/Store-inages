@@ -481,8 +481,8 @@
     "id": "f2a039e5-5234-4a56-88c1-eecfb6af63de",
     "code": "CB004",
     "createdAt": "2026-11-24T13:20:16.966Z",
-    "booked": false,
-    "bookedAt": null
+    "booked": true,
+    "bookedAt": "2026-11-25T07:30:31.443Z"
   },
   {
     "name": "Top brown",
