@@ -1,48 +1,5 @@
 [
   {
-    "name": "Baggy top (test)",
-    "description": "",
-    "price": 4000,
-    "category": "combo",
-    "modelName": "Model b",
-    "modelNumber": "Jm01",
-    "modelDetails": "",
-    "images": [
-      "https://raw.githubusercontent.com/zonemyfashion2026-boop/Store-inages/main/products/1795541427847-49417.webp"
-    ],
-    "sizes": [
-      {
-        "size": "XS",
-        "stock": 0
-      },
-      {
-        "size": "S",
-        "stock": 0
-      },
-      {
-        "size": "M",
-        "stock": 0
-      },
-      {
-        "size": "L",
-        "stock": 1
-      },
-      {
-        "size": "XL",
-        "stock": 0
-      },
-      {
-        "size": "XXL",
-        "stock": 0
-      }
-    ],
-    "featured": false,
-    "active": true,
-    "id": "7998f780-7da1-4a0f-8da2-ea7d578f24f4",
-    "code": "CB010",
-    "createdAt": "2026-11-24T17:30:29.668Z"
-  },
-  {
     "name": "Red top",
     "description": "",
     "price": 250,
