@@ -1,5 +1,48 @@
 [
   {
+    "name": "Test 4",
+    "description": "",
+    "price": 599,
+    "category": "combo",
+    "modelName": "Test",
+    "modelNumber": "Test 4",
+    "modelDetails": "",
+    "images": [
+      "https://raw.githubusercontent.com/zonemyfashion2026-boop/Store-inages/main/products/1795592692391-49226.webp"
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "stock": 1
+      },
+      {
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "id": "c822f36d-76bd-4f80-a3c3-dd71e2245817",
+    "code": "CB004",
+    "createdAt": "2026-11-25T07:44:53.983Z"
+  },
+  {
     "name": "Test 3",
     "description": "",
     "price": 2000,
