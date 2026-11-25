@@ -43,51 +43,6 @@
     "createdAt": "2026-11-24T17:30:29.668Z"
   },
   {
-    "name": "Typical",
-    "description": "",
-    "price": 800,
-    "category": "combo",
-    "modelName": "Test a",
-    "modelNumber": "Xyz1",
-    "modelDetails": "",
-    "images": [
-      "https://raw.githubusercontent.com/zonemyfashion2026-boop/Store-inages/main/products/1795541031237-49420.webp"
-    ],
-    "sizes": [
-      {
-        "size": "XS",
-        "stock": 0
-      },
-      {
-        "size": "S",
-        "stock": 0
-      },
-      {
-        "size": "M",
-        "stock": 1
-      },
-      {
-        "size": "L",
-        "stock": 0
-      },
-      {
-        "size": "XL",
-        "stock": 0
-      },
-      {
-        "size": "XXL",
-        "stock": 0
-      }
-    ],
-    "featured": false,
-    "active": true,
-    "id": "c896cb05-2153-4d67-9844-51ce5e5ae57a",
-    "code": "CB008",
-    "createdAt": "2026-11-24T17:23:53.621Z",
-    "booked": false,
-    "bookedAt": null
-  },
-  {
     "name": "White lehenga",
     "description": "",
     "price": 800,
