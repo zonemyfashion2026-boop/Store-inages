@@ -1,1 +1,45 @@
-[]
+[
+  {
+    "name": "Test",
+    "description": "",
+    "price": 500,
+    "category": "combo",
+    "modelName": "Test model",
+    "modelNumber": "Test-01",
+    "modelDetails": "",
+    "images": [
+      "https://raw.githubusercontent.com/zonemyfashion2026-boop/Store-inages/main/products/1795592561437-49229.webp"
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 1
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "id": "f3fc8a40-58fe-4467-945c-eca87d1c68cc",
+    "code": "CB001",
+    "createdAt": "2026-11-25T07:42:57.714Z"
+  }
+]
