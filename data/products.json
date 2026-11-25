@@ -347,7 +347,9 @@
     "active": true,
     "id": "474e33a6-a7e9-44a2-87ea-74a9dd0edb1d",
     "code": "CB001",
-    "createdAt": "2026-11-24T13:17:01.705Z"
+    "createdAt": "2026-11-24T13:17:01.705Z",
+    "booked": true,
+    "bookedAt": "2026-11-25T07:41:28.845Z"
   },
   {
     "name": "Crop top",
