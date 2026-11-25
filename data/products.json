@@ -213,7 +213,7 @@
       }
     ],
     "featured": false,
-    "active": true,
+    "active": false,
     "id": "3204a8eb-2800-41d2-9a9a-b6ba684d3792",
     "code": "CB003",
     "createdAt": "2026-11-24T13:19:24.206Z",
