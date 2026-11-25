@@ -131,49 +131,6 @@
     "createdAt": "2026-11-24T17:18:11.511Z"
   },
   {
-    "name": "Brown strip",
-    "description": "",
-    "price": 700,
-    "category": "combo",
-    "modelName": "",
-    "modelNumber": "",
-    "modelDetails": "",
-    "images": [
-      "https://raw.githubusercontent.com/zonemyfashion2026-boop/Store-inages/main/products/1795540644543-49415.webp"
-    ],
-    "sizes": [
-      {
-        "size": "XS",
-        "stock": 0
-      },
-      {
-        "size": "S",
-        "stock": 1
-      },
-      {
-        "size": "M",
-        "stock": 0
-      },
-      {
-        "size": "L",
-        "stock": 0
-      },
-      {
-        "size": "XL",
-        "stock": 0
-      },
-      {
-        "size": "XXL",
-        "stock": 0
-      }
-    ],
-    "featured": false,
-    "active": true,
-    "id": "e029a232-87fd-44a9-b4a0-d97921f14d09",
-    "code": "CB006",
-    "createdAt": "2026-11-24T17:17:27.428Z"
-  },
-  {
     "name": "Black kurta semi",
     "description": "",
     "price": 600,
