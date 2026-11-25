@@ -176,51 +176,6 @@
     "bookedAt": "2026-11-25T07:30:14.977Z"
   },
   {
-    "name": "Top brown",
-    "description": "",
-    "price": 800,
-    "category": "combo",
-    "modelName": "",
-    "modelNumber": "",
-    "modelDetails": "",
-    "images": [
-      "https://raw.githubusercontent.com/zonemyfashion2026-boop/Store-inages/main/products/1795526362024-49227.webp"
-    ],
-    "sizes": [
-      {
-        "size": "XS",
-        "stock": 0
-      },
-      {
-        "size": "S",
-        "stock": 1
-      },
-      {
-        "size": "M",
-        "stock": 0
-      },
-      {
-        "size": "L",
-        "stock": 0
-      },
-      {
-        "size": "XL",
-        "stock": 0
-      },
-      {
-        "size": "XXL",
-        "stock": 0
-      }
-    ],
-    "featured": false,
-    "active": false,
-    "id": "3204a8eb-2800-41d2-9a9a-b6ba684d3792",
-    "code": "CB003",
-    "createdAt": "2026-11-24T13:19:24.206Z",
-    "booked": true,
-    "bookedAt": "2026-11-25T07:30:46.907Z"
-  },
-  {
     "name": "Churidars top",
     "description": "",
     "price": 600,
