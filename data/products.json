@@ -305,50 +305,5 @@
     "id": "5697898d-f925-43ff-b377-263929a4ab58",
     "code": "CB002",
     "createdAt": "2026-11-24T13:18:19.624Z"
-  },
-  {
-    "name": "Strip Shirt",
-    "description": "",
-    "price": 300,
-    "category": "combo",
-    "modelName": "Strip A",
-    "modelNumber": "Strip number 1",
-    "modelDetails": "",
-    "images": [
-      "https://raw.githubusercontent.com/zonemyfashion2026-boop/Store-inages/main/products/1795526219636-49231.webp"
-    ],
-    "sizes": [
-      {
-        "size": "XS",
-        "stock": 0
-      },
-      {
-        "size": "S",
-        "stock": 1
-      },
-      {
-        "size": "M",
-        "stock": 1
-      },
-      {
-        "size": "L",
-        "stock": 0
-      },
-      {
-        "size": "XL",
-        "stock": 0
-      },
-      {
-        "size": "XXL",
-        "stock": 0
-      }
-    ],
-    "featured": false,
-    "active": true,
-    "id": "474e33a6-a7e9-44a2-87ea-74a9dd0edb1d",
-    "code": "CB001",
-    "createdAt": "2026-11-24T13:17:01.705Z",
-    "booked": true,
-    "bookedAt": "2026-11-25T07:41:28.845Z"
   }
 ]
