@@ -131,51 +131,6 @@
     "createdAt": "2026-11-24T17:18:11.511Z"
   },
   {
-    "name": "Black kurta semi",
-    "description": "",
-    "price": 600,
-    "category": "combo",
-    "modelName": "Model 67",
-    "modelNumber": "Ji01",
-    "modelDetails": "",
-    "images": [
-      "https://raw.githubusercontent.com/zonemyfashion2026-boop/Store-inages/main/products/1795526502002-49226.webp"
-    ],
-    "sizes": [
-      {
-        "size": "XS",
-        "stock": 0
-      },
-      {
-        "size": "S",
-        "stock": 0
-      },
-      {
-        "size": "M",
-        "stock": 0
-      },
-      {
-        "size": "L",
-        "stock": 0
-      },
-      {
-        "size": "XL",
-        "stock": 0
-      },
-      {
-        "size": "XXL",
-        "stock": 3
-      }
-    ],
-    "featured": false,
-    "active": true,
-    "id": "064ffb35-9b76-4b43-a87c-bed48ad30704",
-    "code": "CB005",
-    "createdAt": "2026-11-24T13:21:44.103Z",
-    "booked": true,
-    "bookedAt": "2026-11-25T06:05:33.311Z"
-  },
-  {
     "name": "Red top",
     "description": "",
     "price": 250,
