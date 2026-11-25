@@ -88,49 +88,6 @@
     "bookedAt": null
   },
   {
-    "name": "Yellow light weight",
-    "description": "",
-    "price": 400,
-    "category": "combo",
-    "modelName": "Chmodel",
-    "modelNumber": "Chm01",
-    "modelDetails": "",
-    "images": [
-      "https://raw.githubusercontent.com/zonemyfashion2026-boop/Store-inages/main/products/1795540689773-49414.webp"
-    ],
-    "sizes": [
-      {
-        "size": "XS",
-        "stock": 0
-      },
-      {
-        "size": "S",
-        "stock": 0
-      },
-      {
-        "size": "M",
-        "stock": 0
-      },
-      {
-        "size": "L",
-        "stock": 1
-      },
-      {
-        "size": "XL",
-        "stock": 0
-      },
-      {
-        "size": "XXL",
-        "stock": 0
-      }
-    ],
-    "featured": false,
-    "active": true,
-    "id": "b5b463f7-6500-4ce0-ad54-428a2e274dad",
-    "code": "CB007",
-    "createdAt": "2026-11-24T17:18:11.511Z"
-  },
-  {
     "name": "Red top",
     "description": "",
     "price": 250,
