@@ -176,51 +176,6 @@
     "bookedAt": "2026-11-25T07:30:14.977Z"
   },
   {
-    "name": "Brown top",
-    "description": "",
-    "price": 600,
-    "category": "combo",
-    "modelName": "Top 1c",
-    "modelNumber": "",
-    "modelDetails": "",
-    "images": [
-      "https://raw.githubusercontent.com/zonemyfashion2026-boop/Store-inages/main/products/1795526414489-49225.webp"
-    ],
-    "sizes": [
-      {
-        "size": "XS",
-        "stock": 0
-      },
-      {
-        "size": "S",
-        "stock": 0
-      },
-      {
-        "size": "M",
-        "stock": 0
-      },
-      {
-        "size": "L",
-        "stock": 6
-      },
-      {
-        "size": "XL",
-        "stock": 0
-      },
-      {
-        "size": "XXL",
-        "stock": 0
-      }
-    ],
-    "featured": false,
-    "active": true,
-    "id": "f2a039e5-5234-4a56-88c1-eecfb6af63de",
-    "code": "CB004",
-    "createdAt": "2026-11-24T13:20:16.966Z",
-    "booked": true,
-    "bookedAt": "2026-11-25T07:30:31.443Z"
-  },
-  {
     "name": "Top brown",
     "description": "",
     "price": 800,
