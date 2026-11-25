@@ -43,49 +43,6 @@
     "createdAt": "2026-11-24T17:30:29.668Z"
   },
   {
-    "name": "Green shirt",
-    "description": "",
-    "price": 2600,
-    "category": "combo",
-    "modelName": "Test combo",
-    "modelNumber": "Test111",
-    "modelDetails": "",
-    "images": [
-      "https://raw.githubusercontent.com/zonemyfashion2026-boop/Store-inages/main/products/1795541239674-49419.webp"
-    ],
-    "sizes": [
-      {
-        "size": "XS",
-        "stock": 0
-      },
-      {
-        "size": "S",
-        "stock": 0
-      },
-      {
-        "size": "M",
-        "stock": 0
-      },
-      {
-        "size": "L",
-        "stock": 1
-      },
-      {
-        "size": "XL",
-        "stock": 0
-      },
-      {
-        "size": "XXL",
-        "stock": 0
-      }
-    ],
-    "featured": false,
-    "active": true,
-    "id": "459fc499-c43d-432c-b3a7-9220b4cc6620",
-    "code": "CB009",
-    "createdAt": "2026-11-24T17:27:21.204Z"
-  },
-  {
     "name": "Typical",
     "description": "",
     "price": 800,
